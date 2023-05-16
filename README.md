@@ -2,7 +2,7 @@
 
 - 🔭 Sou Engenheiro Civil de formação, com carreira desenvolvida na área de Projetos e Finanças
 - 🌱 Estudando Python, R e SQL
-- 🔎 Em busca de uma oportunidade na área de Análise e Ciência de Dados
+- 🔎 Em busca de uma oportunidade nas áreas de Análise e Ciência de Dados
 
 <div>
   <a href="https://github.com./mauriciompinheiro">
