@@ -8,7 +8,6 @@
   <a href="https://github.com./mauriciompinheiro">
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mauriciompinheiro&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mauriciompinheiro&layout=compact&theme=tokyonight)](https://github.com/mauriciompinheiro/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Mau-Py" height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
