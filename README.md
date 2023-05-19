@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Mauricio Pinheiro
 
-- 🔭 Sou Engenheiro Civil de formação, com carreira desenvolvida na área de Projetos e Finanças
+- 🔭 Sou um Engenheiro Civil com carreira desenvolvida na área de Projetos e Finanças
 - 🌱 Estudando Python, R e SQL
 - 🔎 Em busca de uma oportunidade nas áreas de Análise e Ciência de Dados
 
